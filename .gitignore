@@ -26,3 +26,15 @@
 *.exe
 *.out
 *.app
+
+# Java
+*.class
+
+# Input and Output directories
+*.zip
+FilesToProcess/
+Output/
+
+# Some bullshit
+*.*~
+*.txt
